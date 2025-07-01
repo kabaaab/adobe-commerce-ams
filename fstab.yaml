@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/kabaaab/adobe-commerce-ams/
+    type: markup
+
+folders:
+  /products/: /products/default
